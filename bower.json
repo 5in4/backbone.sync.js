@@ -1,0 +1,20 @@
+{
+  "name": "backbone.sync.js",
+  "main": "backbone.sync.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/5in4/backbone.sync.js",
+  "authors": [
+    "Dominik Seemann <d.seemann@5in4.de>"
+  ],
+  "description": "Backbone.sync for django projects",
+  "moduleType": [],
+  "license": "none",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
